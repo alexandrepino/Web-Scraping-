@@ -1,0 +1,511 @@
+1645497768485	geckodriver	INFO	Listening on 127.0.0.1:49247
+1645497768487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57045" "-no-remote" "-profile" "/tmp/rust_mozprofileIBs7Yn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645497769169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIBs7Yn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57045/devtools/browser/5a84e8be-64a5-4f52-9022-5cc4e8f11000
+1645497770309	Marionette	INFO	Listening on port 43413
+1645497770405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645497776268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://s.srvmath.com/2/2.50.0/main.js, line 1: TypeError: t is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 2471 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 554 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 5742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497810943	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645497817349	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 7543 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 3955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645497851275	Marionette	INFO	Stopped listening on port 43413
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645498864782	geckodriver	INFO	Listening on 127.0.0.1:49645
+1645498864784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50161" "-no-remote" "-profile" "/tmp/rust_mozprofileO1HIKt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645498865458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1HIKt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50161/devtools/browser/d2c06727-4747-4c65-8820-b0e10f0ea407
+1645498866871	Marionette	INFO	Listening on port 37965
+1645498866904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645498871916	Marionette	INFO	Stopped listening on port 37965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645498889862	geckodriver	INFO	Listening on 127.0.0.1:54139
+1645498889865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59081" "-no-remote" "-profile" "/tmp/rust_mozprofile1tp9q8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645498890540	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1tp9q8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59081/devtools/browser/5bd9f504-820b-476f-b946-d5414c534f5b
+1645498891616	Marionette	INFO	Listening on port 34609
+1645498892313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645498892622	Marionette	INFO	Stopped listening on port 34609
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645498906894	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1645498931522	geckodriver	INFO	Listening on 127.0.0.1:46835
+1645498931525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35261" "-no-remote" "-profile" "/tmp/rust_mozprofilecFuklF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645498932226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecFuklF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35261/devtools/browser/7cffad08-2eeb-4c2d-a7db-27e9ea116cc9
+1645498933367	Marionette	INFO	Listening on port 44347
+1645498933442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645498937586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 1928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645498961870	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645498988885	Marionette	INFO	Stopped listening on port 44347
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645499004476	geckodriver	INFO	Listening on 127.0.0.1:51435
+1645499004479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48721" "-no-remote" "-profile" "/tmp/rust_mozprofilex40omu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499005181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex40omu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48721/devtools/browser/c21e8989-9e8d-403c-b8c9-8bf3c5f50cb7
+1645499006288	Marionette	INFO	Listening on port 42471
+1645499006395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499015269	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2347 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 1063 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2036 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499042998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645499048300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+1645499051180	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 4719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 3689 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499107863	Marionette	INFO	Stopped listening on port 42471
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499129807	geckodriver	INFO	Listening on 127.0.0.1:53697
+1645499129810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44633" "-no-remote" "-profile" "/tmp/rust_mozprofileytUAv4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499130460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileytUAv4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44633/devtools/browser/d661c2c5-e9c9-4452-b295-def680c0fe7a
+1645499131726	Marionette	INFO	Listening on port 41087
+1645499132203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499136353	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 3231 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499160258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645499165551	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+1645499168438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 4961 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499202590	Marionette	INFO	Stopped listening on port 41087
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499260710	geckodriver	INFO	Listening on 127.0.0.1:41941
+1645499260713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38071" "-no-remote" "-profile" "/tmp/rust_mozprofile43W639"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499261336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile43W639/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38071/devtools/browser/40f5b558-b270-4d9b-98b5-6717be148d7b
+1645499262515	Marionette	INFO	Listening on port 46411
+1645499262531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499268393	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 3935 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 6625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645499303209	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 4526 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 1893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499426256	geckodriver	INFO	Listening on 127.0.0.1:42191
+1645499426759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51021" "-no-remote" "-profile" "/tmp/rust_mozprofilemqA9C9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499427398	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemqA9C9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51021/devtools/browser/ad8408be-9a4d-4afb-8aab-bd10f0d5c1f5
+1645499428652	Marionette	INFO	Listening on port 33961
+1645499428699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499433025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 6177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 6916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499465584	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645499468817	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499547617	geckodriver	INFO	Listening on 127.0.0.1:36773
+1645499547621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49683" "-no-remote" "-profile" "/tmp/rust_mozprofile9K6EMg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499548314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9K6EMg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49683/devtools/browser/e3584386-2116-4af9-8825-1111f663e61e
+1645499549629	Marionette	INFO	Listening on port 34283
+1645499549737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499553625	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 6556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 4449 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 5042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499577614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645499582882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1645499585074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 7076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 1544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499680283	geckodriver	INFO	Listening on 127.0.0.1:43435
+1645499680790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58907" "-no-remote" "-profile" "/tmp/rust_mozprofileDN2oxT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499681564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDN2oxT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58907/devtools/browser/0e172a2d-b8a1-49c9-9b75-460b6b9fd202
+1645499682826	Marionette	INFO	Listening on port 41757
+1645499682914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499686951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 7059 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 3987 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 1435 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499710952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645499716210	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+1645499720311	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 5725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 198399, MediaDecoderStateMachine #1] WARNING: Decoder=7efc5bd1f400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-oDiU8w/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 198399, MediaDecoderStateMachine #1] WARNING: Decoder=7efc5bd1f400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox-oDiU8w/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:3568
+1645499742080	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 4911 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499786159	geckodriver	INFO	Listening on 127.0.0.1:51273
+1645499786162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36663" "-no-remote" "-profile" "/tmp/rust_mozprofileOTYLB6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499786854	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOTYLB6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36663/devtools/browser/04c66dbd-f6dd-4888-af08-9b4fb4f14c57
+1645499788037	Marionette	INFO	Listening on port 38473
+1645499788083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499793826	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 4466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s.srvmath.com/2/2.50.0/main.js, line 1: TypeError: t is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 2677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499830143	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645499835413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645499838810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2186 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 6132 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 6955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645499948266	Marionette	INFO	Stopped listening on port 46411
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499949716	Marionette	INFO	Stopped listening on port 33961
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499951178	Marionette	INFO	Stopped listening on port 34283
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499952849	Marionette	INFO	Stopped listening on port 41757
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+1645499954060	Marionette	INFO	Stopped listening on port 38473
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645499962837	geckodriver	INFO	Listening on 127.0.0.1:44497
+1645499963344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40785" "-no-remote" "-profile" "/tmp/rust_mozprofilebvUkP5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645499964025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebvUkP5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40785/devtools/browser/f0c9bd24-3777-406d-ae74-faefa99436ca
+1645499964978	Marionette	INFO	Listening on port 33501
+1645499965062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645499971843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 1326 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 6854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645500000343	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645500005630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645500009675	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 7315 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645500053098	geckodriver	INFO	Listening on 127.0.0.1:49335
+1645500053102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33171" "-no-remote" "-profile" "/tmp/rust_mozprofile3Fene7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1645500053750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Fene7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33171/devtools/browser/cc815fd7-0ddb-494d-822d-2d4103d76d87
+1645500055117	Marionette	INFO	Listening on port 41635
+1645500055500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645500060549	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 2255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 5646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645500099109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645500104440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://br.investing.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1645500108178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IfvWsR8c8QoIXMZVBAT6kqVdCzRxsMqQy0C-AEZrj6Q.js line 1 > eval line 2451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Hujgl23SVzI3rZSj4hNxUITd7BayDnfI5D3l6J-e8FI.js line 1 > eval line 6625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645500123328	Marionette	INFO	Stopped listening on port 41635
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645535399811	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
